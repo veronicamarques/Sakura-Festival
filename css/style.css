@@ -1,0 +1,15 @@
+.navbar-bg{background-color: #915E67;}
+
+*{font-family: 'Montserrat', sans-serif;}
+
+body{background-color: #ffd9df99;}
+
+.img-props{max-height: calc(100vh - 66px);}
+
+.nav-link.active, .nav-link:hover{text-decoration: underline; color: #DEA6AF !important;}
+
+.nav-link{cursor: pointer; padding: 0 25px 0 25px !important; color: #FFD9DF !important; letter-spacing: 2px;}
+
+#sakura-logo{margin-left: 24px;}
+
+.nav-link-props{text-align: center;}
